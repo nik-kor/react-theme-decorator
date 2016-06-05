@@ -1,4 +1,4 @@
-# Theme decorator
+# React theme decorator
 
 [![Build Status](https://travis-ci.org/nik-kor/react-theme-decorator.svg?branch=master)](https://travis-ci.org/nik-kor/react-theme-decorator)
 
