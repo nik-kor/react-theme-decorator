@@ -2,7 +2,7 @@
   "name": "react-theme-decorator",
   "version": "0.0.1",
   "description": "A theme decorator(ES7) for React components",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "babel index.js > dist/index.js",
     "test": "npm run build && mocha"
