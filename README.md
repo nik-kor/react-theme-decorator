@@ -1,5 +1,7 @@
 # Theme decorator
 
+[![Build Status](https://travis-ci.org/nik-kor/react-theme-decorator.svg?branch=master)](https://travis-ci.org/nik-kor/react-theme-decorator)
+
 E.g. we have the component:
 
 ```jsx
